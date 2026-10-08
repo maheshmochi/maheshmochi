@@ -288,7 +288,7 @@ I use AI tools to explore ideas, solve problems, and learn faster — but I beli
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=maheshmochi&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1"
+  src="https://ajasad25.github.io/GITHUB-BADGES/Media/Badges/Pull-Shark/PNG/PullShark.png"
 />
 
 </div>
